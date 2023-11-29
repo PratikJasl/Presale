@@ -12,7 +12,7 @@ The key features and functionalities of the contract include:
       * Supporting referral functionality with referral codes and referral rewards.
       * Categorizing investors based on their investment amounts at the end of all pre-sale events.
    
-Technology Stack 📌
+# Technology Stack 📌
       - Solidity
       - Javascript
       - Ether.js
